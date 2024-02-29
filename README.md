@@ -69,4 +69,4 @@ GitHubからパッケージをダウンロードしてインストール（推�
 # LICENCE
 
 This package is under MIT License.
-Please see `LICENSE` file.
+Please see [LICENSE](LICENSE) file.
